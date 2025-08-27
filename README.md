@@ -7,7 +7,13 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 1. Install dependencies
 
    ```bash
-   npm install
+   npm install![IMG-20250827-WA0009](https://github.com/user-attachments/assets/760f8137-b440-45bd-ba83-f5d045fcc0de)
+![IMG-20250827-WA0008](https://github.com/user-attachments/assets/9fa537a7-0fe9-4307-b63b-fdbe127f5bf2)
+![IMG-20250827-WA0007](https://github.com/user-attachments/assets/2c2db526-a43f-4637-8fce-fc524e8ec0b8)
+![IMG-20250827-WA0012](https://github.com/user-attachments/assets/b3418a99-25d3-40c3-8937-4853759f4431)
+![IMG-20250827-WA0011](https://github.com/user-attachments/assets/326bc24c-cdcd-41da-a116-e54d26b81077)
+![IMG-20250827-WA0010](https://github.com/user-attachments/assets/7a24ec81-82b1-404a-9e93-401f851725b5)
+
    ```
 
 2. Start the app
