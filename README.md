@@ -4,7 +4,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
-1. Install dependencies
+1. Install dependencie<img width="1080" height="1920" alt="Screenshot_1756264997" src="https://github.com/user-attachments/assets/5bc9a272-e1a6-4168-a8f5-777649e40eff" />
+s
 
    ```bash
    npm install![IMG-20250827-WA0009](https://github.com/user-attachments/assets/760f8137-b440-45bd-ba83-f5d045fcc0de)
